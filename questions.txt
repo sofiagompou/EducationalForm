@@ -1,0 +1,79 @@
+'backend',1,' Which statement is true about Java?'
+,'Java is a platform-independent programming language',
+'Java is a platform-dependent programming language',
+'Java is a sequence-dependent programming language'),
+
+('backend',1,'Which component is used to compile, debug and execute the java programs?'
+,'JDK',
+'JRE',
+'JVM'),
+
+('backend',1,'
+What is the extension of java code files?',
+'.java',
+'.js',
+'.class'),
+
+
+('backend',1,'C# is a programming language, developed by __',
+'Microsoft',
+'GNU project',
+'Google'),
+
+('backend',1,'C# runs on the ___',
+'.NET Framework',
+'Java Virtual Machine',
+'Both A. and B.'),
+
+('backend',3,'What is the extension of a C# language file?',
+'.cpp',
+'.c','
+.cs')
+
+,('backend',2,
+'Which symbols are used to mark the beginning and end of a code block?'
+,'Curly braces {}'
+,'Round brackets ()',
+'Square brackets []'),
+
+('frontend',1,
+'HTML stands for __',
+'HyperText Markup Language',
+'HyperText Marking Language',
+'HighText Marking Language'),
+
+('frontend',1,'What is the correct syntax of doctype in HTML5?'
+,'<!doctype html>'
+,'<doctype html>',
+'</doctype html>'),
+
+('frontend',1,'Which of the following tag is used for inserting the largest heading in HTML?',
+'<h1>',
+'head'
+,'<h6>'),
+
+('frontend',1,'
+ In which part of the HTML metadata is contained?',
+'head tag',
+'html tag',
+'body tag'),
+
+('frontend',2,'What is JavaScript?',
+'JavaScript is a scripting language used to make the website interactive',
+'JavaScript is an assembly language used to make the website interactive',
+' JavaScript is a compiled language used to make the website interactive')
+
+,('frontend',2,' Which of the following is correct about JavaScript?',
+' JavaScript is an Object-Based language',
+'JavaScript is an Object-Oriented language',
+'JavaScript is a High-level language'),
+
+('frontend',1,'Which of the following object is the main entry point to all client-side JavaScript features and APIs?',
+'Window',
+'Position',
+'Location'),
+
+('frontend',2,'Which of the following can be used to call a JavaScript Code Snippet?',
+'Function/Method',
+'Triggering Event',
+'Preprocessor'
